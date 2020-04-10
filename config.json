@@ -1,0 +1,8 @@
+{
+    "token": "Your Token Here",
+    "prefix": "?",
+    "btc": "Your BTC Addy here",
+    "delete_after_execute": "yes",
+    "afk_message": "Afk message",
+    "paypalmail": "Your paypal email here"
+}
